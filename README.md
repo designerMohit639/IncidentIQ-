@@ -26,7 +26,7 @@ The dataset contains 911 call records with details such as:
 ## 📈 Visualizations
 
 ### 1. Calls per Month
-![Calls per Month](Call Capston Project image 5)
+![Calls per Month](Call Capston Project image 5.png)
 
 ### 2. Monthly Trend (Regression)
 ![Monthly Trend](7cebbc2e-0563-4479-9256-a44c01d9895d.png)
